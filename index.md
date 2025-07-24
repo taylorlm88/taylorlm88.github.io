@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lisa (Taylor) Ferguson
+title: Home
 ---
 
 # Welcome!

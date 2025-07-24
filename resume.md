@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Resume
-parent: Lisa (Taylor) Ferguson
+permalink: /resume/
+parent: Home
 nav_order: 1
-has_toc: false
 ---
