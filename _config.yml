@@ -1,3 +1,8 @@
 title: Lisa (Taylor) Ferguson
 description: My Internet Home
 theme: minima
+header_pages:
+  - index.md
+  - resume.md
+  - writing.md
+  
