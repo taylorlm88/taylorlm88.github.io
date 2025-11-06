@@ -35,6 +35,7 @@ I primarily work in MATLAB and python, but am experienced in several other langa
 A large suite of user applications to standardize the design, execution, and analysis of neuroscience experiments. 
 
 [View on GitHub](https://github.com/JaneliaSciComp/G4_Display_Tools)
+
 ---
 
 ### Project 2: Display Tools - Python
@@ -54,6 +55,8 @@ A new set of tools allowing researchers to create display patterns and design ex
 This very website! A static site built with Jekyll and hosted on GitHub Pages, demonstrating proficiency in web development, version control, and deployment workflows.
 
 [View on GitHub](https://github.com/taylorlm88/taylorlm88.github.io)
+
+---
 
 ### Technical Documentation 
 
