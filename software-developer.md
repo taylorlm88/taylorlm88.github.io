@@ -32,7 +32,7 @@ I primarily work in MATLAB and python, but am experienced in several other langa
 
 **Technologies:** MATLAB, C++, Python
 
-A large suite of user applications to standardize the design, execution, and analysis of neuroscience experiments. 
+A large suite of user applications to standardize the design, execution, and analysis of neuroscience experiments.
 
 [View on GitHub](https://github.com/JaneliaSciComp/G4_Display_Tools)
 
