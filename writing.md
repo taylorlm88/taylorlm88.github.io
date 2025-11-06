@@ -8,6 +8,8 @@ permalink: /writing/
 
 ## About My Writing
 
+This content coming soon!
+ <!--
 Words have power—to inform, persuade, entertain, and inspire. As a writer, I craft content that connects with audiences and achieves goals. Whether it's technical documentation that makes complex topics accessible, marketing copy that drives engagement, or creative storytelling that captivates readers, I bring clarity, creativity, and professionalism to every project.
 
 With a background spanning multiple disciplines, I'm able to write for diverse audiences and adapt my voice to suit any project's needs.
@@ -134,7 +136,7 @@ Writing rates vary depending on project scope, complexity, and timeline. I offer
 
 ## Let's Tell Your Story
 
-Whether you need content that informs, persuades, or entertains, I'd love to help bring your vision to life.
+Whether you need content that informs, persuades, or entertains, I'd love to help bring your vision to life. -->
 
 [Contact Me](/contact/)
 
