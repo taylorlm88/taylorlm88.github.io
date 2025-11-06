@@ -8,7 +8,7 @@ permalink: /resume/
 
 ## Lisa (Taylor) Ferguson
 
-**Contact:** [Contact Me](/contact/) 
+**Contact:** [Contact Me](/contact/)
 **Location:** Cincinnati, OH, USA  
 **GitHub:** [github.com/taylorlm88](https://github.com/taylorlm88)  
 **Website:** [taylorlm88.github.io](https://taylorlm88.github.io)

@@ -28,54 +28,42 @@ I primarily work in MATLAB and python, but am experienced in several other langa
 
 ## Portfolio
 
-### Project 1: E-Commerce Platform
+### Project 1: G4 Display Tools
 
-**Technologies:** React, Node.js, PostgreSQL, Stripe API
+**Technologies:** MATLAB, C++, Python
 
-A full-stack e-commerce solution featuring user authentication, product catalog management, shopping cart functionality, and secure payment processing. Implemented responsive design for mobile and desktop experiences.
+A large suite of user applications to standardize the design, execution, and analysis of neuroscience experiments. 
 
-[View on GitHub](https://github.com/taylorlm88/project1) | [Live Demo](#)
+[View on GitHub](https://github.com/JaneliaSciComp/G4_Display_Tools)
+---
+
+### Project 2: Display Tools - Python
+
+**Technologies:** Python, Pixi, Hatchling
+
+A new set of tools allowing researchers to create display patterns and design experiments for neuroscience applications without the need for programming experience. Related to the G4 Display Tools, but for newer hardware, G4.1 and G6 systems, and open source (no longer reliant on MATLAB license)
+
+[View on GitHub](https://github.com/reiserlab/pyDisplayTools)
 
 ---
 
-### Project 2: Task Management Application
-**Technologies:** Python, Django, SQLite, Bootstrap
+### Project 3: Personal Portfolio Website
 
-A collaborative task management tool that allows teams to create projects, assign tasks, set deadlines, and track progress. Features include real-time notifications, user roles and permissions, and data visualization dashboards.
-
-[View on GitHub](https://github.com/taylorlm88/project2) | [Live Demo](#)
-
----
-
-### Project 3: Data Analysis Tool
-**Technologies:** Python, Pandas, Matplotlib, Jupyter
-
-An automated data analysis pipeline that processes large datasets, generates statistical reports, and creates visualizations. Designed for non-technical users with an intuitive interface and comprehensive documentation.
-
-[View on GitHub](https://github.com/taylorlm88/project3)
-
----
-
-### Project 4: Personal Portfolio Website
 **Technologies:** Jekyll, GitHub Pages, HTML/CSS
 
 This very website! A static site built with Jekyll and hosted on GitHub Pages, demonstrating proficiency in web development, version control, and deployment workflows.
 
 [View on GitHub](https://github.com/taylorlm88/taylorlm88.github.io)
 
----
+### Technical Documentation 
 
-## Open Source Contributions
-
-I actively contribute to open-source projects and maintain several repositories on GitHub. Check out my [GitHub profile](https://github.com/taylorlm88) to see my latest work and contributions.
+View the extensive technical documentation I have written regarding the G4 Display Tools, including tutorials and deep dives into the code to allow users to train themselves on the technology. [View Documentation](https://reiserlab.github.io/Modular-LED-Display/G4/) - All menu items starting with "G4 " were written by me. 
 
 ---
 
 ## What I Offer
 
-- **Custom Web Applications:** From concept to deployment, I build responsive web apps tailored to your needs
-- **API Development:** Design and implement RESTful APIs for seamless integration with existing systems
-- **Database Solutions:** Optimize database design for performance and scalability
+- **Custom Applications:** From concept to deployment, I build responsive applications to help standardize and speed up your work.
 - **Code Review & Consulting:** Provide expert feedback on code quality, architecture, and best practices
 - **Technical Documentation:** Create clear, comprehensive documentation for developers and end-users
 - **Automation Tools:** Build scripts and tools to streamline repetitive tasks and improve efficiency
