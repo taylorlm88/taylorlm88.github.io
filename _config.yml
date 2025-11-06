@@ -1,8 +1,10 @@
 title: Lisa (Taylor) Ferguson
-description: My Internet Home
+description: Software Developer | Educator | Writer
 theme: minima
 header_pages:
   - index.md
   - resume.md
+  - software-developer.md
+  - educator.md
   - writing.md
-  
+  - contact.md
